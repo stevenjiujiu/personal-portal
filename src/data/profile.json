@@ -1,0 +1,34 @@
+{
+  "name": "开发者",
+  "title": "你好，我是开发者",
+  "bio": "热爱创造精美的用户体验，专注于现代 Web 开发技术",
+  "avatar": "👨‍💻",
+  "email": "email@example.com",
+  "social": {
+    "github": "https://github.com",
+    "linkedin": "#",
+    "twitter": "#"
+  },
+  "about": {
+    "description": [
+      "我是一名充满热情的全栈开发者，拥有多年 Web 开发经验。专注于构建高性能、用户友好的应用程序。",
+      "我相信代码不仅是功能的实现，更是一门艺术。追求简洁优雅的解决方案，注重细节和用户体验。"
+    ]
+  },
+  "skills": [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Node.js",
+    "Python",
+    "Git",
+    "Docker",
+    "AWS"
+  ],
+  "navigation": [
+    { "label": "首页", "href": "#hero" },
+    { "label": "关于", "href": "#about" },
+    { "label": "项目", "href": "#projects" },
+    { "label": "联系", "href": "#contact" }
+  ]
+}

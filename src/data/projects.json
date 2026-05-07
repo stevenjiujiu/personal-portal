@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "电商平台",
+    "description": "一个功能完整的在线购物平台，支持支付集成和订单管理，具有响应式设计和流畅的购物体验",
+    "fullDescription": "这是一个功能齐全的电商平台，采用前后端分离架构。前端使用 React 构建单页应用，配合 Redux 进行状态管理。后端采用 Node.js + Express 提供 RESTful API，数据存储使用 MongoDB。\n\n主要功能包括：用户认证系统、商品浏览与搜索、购物车管理、Stripe 支付集成、订单跟踪、管理员后台等。\n\n项目亮点：\n- 响应式设计，适配各种设备\n- JWT 身份验证\n- 实时库存管理\n- 安全的支付流程",
+    "tech": ["React", "Node.js", "MongoDB", "Stripe"],
+    "link": "#",
+    "demoUrl": "https://demo.example.com",
+    "repoUrl": "https://github.com",
+    "gradient": "from-blue-500 to-purple-600",
+    "image": "�",
+    "screenshots": ["📱", "💻", "📊"],
+    "year": "2024"
+  },
+  {
+    "id": 2,
+    "name": "任务管理应用",
+    "description": "协作式任务管理工具，支持实时更新、团队同步和智能任务分配功能",
+    "fullDescription": "一款专为团队协作设计的任务管理工具，支持多人实时协作。使用 Firebase 实时数据库实现即时同步，让团队成员随时了解项目进度。\n\n核心特性：\n- 拖拽式任务看板\n- 实时协作编辑\n- 智能任务分配\n- 进度追踪与报表\n- 文件附件支持\n- 邮件通知",
+    "tech": ["TypeScript", "Firebase", "Tailwind", "React"],
+    "link": "#",
+    "demoUrl": "https://demo.example.com",
+    "repoUrl": "https://github.com",
+    "gradient": "from-green-400 to-blue-500",
+    "image": "✅",
+    "screenshots": ["�", "📅", "📈"],
+    "year": "2024"
+  },
+  {
+    "id": 3,
+    "name": "数据分析仪表板",
+    "description": "可视化数据仪表板，提供实时业务洞察，支持多种数据源接入",
+    "fullDescription": "企业级数据分析平台，帮助决策者快速获取业务洞察。支持多种数据源接入，包括 SQL 数据库、API、CSV 文件等。\n\n技术架构：\n前端使用 React + D3.js 实现数据可视化，后端使用 Python FastAPI 提供高性能数据处理。\n\n功能模块：\n- 自定义仪表板\n- 实时数据流\n- 多维度分析\n- 报表导出\n- 权限管理",
+    "tech": ["React", "D3.js", "Python", "FastAPI"],
+    "link": "#",
+    "demoUrl": "https://demo.example.com",
+    "repoUrl": "https://github.com",
+    "gradient": "from-orange-400 to-red-500",
+    "image": "�",
+    "screenshots": ["📉", "📈", "🎯"],
+    "year": "2023"
+  }
+]
